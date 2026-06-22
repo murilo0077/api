@@ -1,0 +1,58 @@
+[
+  {
+    "nome": "Carlos Eduardo Pereira",
+    "cpf": "123.456.789-00",
+    "cep": "01310-100",
+    "nascimento": "1992-03-25",
+    "rua": "Avenida Paulista",
+    "numero": "1000",
+    "bairro": "Bela Vista",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "email": "cadu.pereira@email.com",
+    "celular": "(11) 97777-8888",
+    "senha": "Carlos@Senha2024"
+  },
+  {
+    "nome": "Juliana Martins Souza",
+    "cpf": "987.654.321-11",
+    "cep": "20031-170",
+    "nascimento": "1995-07-12",
+    "rua": "Rua México",
+    "numero": "128",
+    "bairro": "Centro",
+    "cidade": "Rio de Janeiro",
+    "uf": "RJ",
+    "email": "ju.martins@provedor.com",
+    "celular": "(21) 96666-5555",
+    "senha": "Ju#Souza2025"
+  },
+  {
+    "nome": "Fernando Henrique Alencar",
+    "cpf": "555.444.333-22",
+    "cep": "70040-010",
+    "nascimento": "1988-11-30",
+    "rua": "Setor Comercial Norte",
+    "numero": "50",
+    "bairro": "Asa Norte",
+    "cidade": "Brasília",
+    "uf": "DF",
+    "email": "henrique.alencar@email.com",
+    "celular": "(61) 95555-4444",
+    "senha": "Nando@Senha2"
+  },
+  {
+    "nome": "Ricardo Oliveira Santos",
+    "cpf": "222.333.444-55",
+    "cep": "30140-071",
+    "nascimento": "1985-12-05",
+    "rua": "Rua da Bahia",
+    "numero": "2500",
+    "bairro": "Savassi",
+    "cidade": "Belo Horizonte",
+    "uf": "MG",
+    "email": "ricardo.santos@email.com",
+    "celular": "(31) 99988-7766",
+    "senha": "Ricardo@BH2026"
+  }
+]
